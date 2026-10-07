@@ -31,7 +31,7 @@ A luxury beauty-salon website **template** with a **real, working booking flow**
 
 ## Stack
 
-React 19 · TypeScript · Vite · Tailwind CSS v4 · three.js / React Three Fiber
+React 19 · TypeScript · Vite · Tailwind CSS v4 · three.js / React Three Fiber · Drei
 
 ## Gallery
 
